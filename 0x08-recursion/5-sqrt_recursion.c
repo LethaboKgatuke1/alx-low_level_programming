@@ -13,7 +13,7 @@ return (-1);
 if (root * root == n)
 return (root);
 
-return (find_root(n, root +1));
+return (find_root(n, root + 1));
 }
 /**
  * _sqrt_recursion - finds natural square root of n
