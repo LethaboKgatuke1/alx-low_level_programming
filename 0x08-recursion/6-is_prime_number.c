@@ -15,7 +15,7 @@ return (is_prime(n, divisor + 1));
 
 }
 /**
- * is_prime - checks if prime
+ * is_prime_number - checks if prime
  * @n: number to check
  * Return: 1 if prime, 0 if not
  */
